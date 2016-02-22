@@ -1,0 +1,22 @@
+{
+  "name": "cf-node-express",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Daithi Coombes <webeire@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/coder-forge/node-express",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
